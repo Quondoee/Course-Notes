@@ -1,5 +1,5 @@
 Pluralist notes
-#Charateristics of Git
+# Charateristics of Git
 * optimized for local development
 * can work offline
 * explicit and not implicit
@@ -9,12 +9,12 @@ Pluralist notes
 * modified - changes being made are her
 * staged - file changes ready to be commited
 
-#PUSHING TO GIT
+# PUSHING TO GIT
 * git commit -m
 * git add -A
 * git push
 
-#Basic git commands
+# Basic git commands
 * Ggit init - creates a new repository
 * git add - move modified files into the staging area
 * git status - shows you the status of the files
@@ -28,7 +28,7 @@ Pluralist notes
 * git branch -a - will display local branches
 * git checkout " branch name " - to switch to branch
 
-#Fixing a commit
+# Fixing a commit
 * git commit --amend
 * WILL OPEN EDITOR WITHIN COMMAND PROMPT TO MAKE CHANGE
 
